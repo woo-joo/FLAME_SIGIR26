@@ -2,7 +2,7 @@
 This repository provides the source code of paper, "FLAME: Modular Ensemble with Guided Mutual Learning for Sequential Recommendation."
 
 ## 1. Overview
-![flame](https://github.com/user-attachments/assets/65e0913d-3a9f-4317-bb22-5e2fb2c29df2)
+<img src="figures/flame.png" alt="Sample Figure" width="100%">
 
 ## 2. Environment
 ```
