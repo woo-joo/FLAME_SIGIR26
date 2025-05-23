@@ -6,7 +6,7 @@ This repository provides the source code of paper, "FLAME: Modular Ensemble with
 
 ## 2. Environment
 ```
-conda env create --file eny.yml
+conda env create --file env.yml
 conda activate flame
 ```
 
