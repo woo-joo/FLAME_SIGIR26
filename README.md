@@ -1,5 +1,5 @@
 # FLAME
-This repository provides the source code of paper, "FLAME: Modular Ensemble with Guided Mutual Learning for Sequential Recommendation."
+This repository provides the source code of paper, "FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation."
 
 ## 1. Overview
 <img src="figures/flame.png" alt="Sample Figure" width="50%">
